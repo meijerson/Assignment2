@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=orderNumber\ deskLength\ deskWidth\ customerName
+comment0.target=RickHammer(int,\ int,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=void\ setSizePrice()
+comment2.params=typeOfWood
+comment2.target=void\ setWoodType(java.lang.String)
+comment3.params=numberOfDrawers
+comment3.target=void\ setNumberOfDrawers(int)
+comment4.params=
+comment4.target=void\ printPrice()
+numComments=5
